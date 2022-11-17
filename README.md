@@ -1,4 +1,10 @@
 # ***Ice Games - Sales Campaign Analysis***
+## Table of contents
+- [General description](#general-description)<br>
+    - [A Yandex.Practicum DA project](#the-project-was-made-as-part-of-the-yandexpracticums-data-analytics-course)
+- [Used Technology](#used-technology)
+- [The Dataset's Description](#the-datasets-description)
+  - [Data Disclaimer](#disclaimer-note-user-and-expert-reviews-genres-platforms-eg-xbox-or-playstation-and-historical-data-on-game-sales-are-available-from-open-sources)
 
 ### **General description:**
 The project is analyzing Ice Games' sales throughout their lifetime in order to plan the next marketing campaign, as well as spotting and profiling potentially top-selling games. <br>
