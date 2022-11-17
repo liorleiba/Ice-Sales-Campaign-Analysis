@@ -4,8 +4,9 @@
     - [A Yandex.Practicum DA project](#the-project-was-made-as-part-of-the-yandexpracticums-data-analytics-course)
 - [Used Technology](#used-technology)
 - [The Dataset's Description](#the-datasets-description)
-  - [Data Disclaimer](#disclaimer-note-user-and-expert-reviews-genres-platforms-eg-xbox-or-playstation-and-historical-data-on-game-sales-are-available-from-open-sources)
+  - [Dataset Disclaimer](#disclaimer-note-user-and-expert-reviews-genres-platforms-eg-xbox-or-playstation-and-historical-data-on-game-sales-are-available-from-open-sources)
 
+---
 ### **General description:**
 The project is analyzing Ice Games' sales throughout their lifetime in order to plan the next marketing campaign, as well as spotting and profiling potentially top-selling games. <br>
 
@@ -13,12 +14,16 @@ The project is analyzing Ice Games' sales throughout their lifetime in order to 
 
 [Ice Games](https://www.icegame.com/home) is an online store, which sells video games all over the world.
 
+###### [⭱ Back to Top](#ice-games---sales-campaign-analysis)
+
 ---
 ### Used Technology:
 **Python Version:** 3.9.12 <br>
 **Packages:** pandas (1.4.2), numpy (1.21.5), scipy, matplotlib, seaborn, plotly, random
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+###### [⭱ Back to Top](#ice-games---sales-campaign-analysis)
+
+---
 # ***The Dataset's Description***
 
 The data analyzed in this report, i.e. the `games.csv` file in the repo, describes the sales data of all recorded Ice Games' releases from the year of $1980$ up to $2016$, including the ***sales numbers on the top 3 target markets*** (i.e. <sup>1</sup>North America, <sup>2</sup>Europe, and <sup>3</sup>Japan) as well as the ***rest of the world sales volume***.
@@ -32,8 +37,6 @@ The data's rows each represent a single game, stating each unique game's followi
   ✲ ***ESRB*** *stands for the* ***"[Entertainment Software Rating Board](https://www.esrb.org/)" -*** *which evaluates a game's content and assigns an [age rating](https://www.esrb.org/ratings-guide/) such as Teen or <img src=dot.gif height=1 width=20>Mature.*<br>  
 - ***Users & critics scores*** from reviews.
 
-
-
 ###### ***Disclaimer Note:*** *User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources.*
 
-
+###### [⭱ Back to Top](#ice-games---sales-campaign-analysis)
